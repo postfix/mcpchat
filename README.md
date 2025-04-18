@@ -29,7 +29,7 @@ A powerful terminal-based chat application that connects to multiple Model Conte
 
 ```bash
 # Clone the repository
-git clone https://github.com/yourusername/mcpchat.git
+git clone https://github.com/postfix/mcpchat.git
 cd mcpchat
 
 # Install dependencies
