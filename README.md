@@ -7,7 +7,7 @@ A powerful terminal-based chat application that connects to multiple Model Conte
 
 ![Node.js Version](https://img.shields.io/badge/node-%3E%3D18.0.0-brightgreen)
 ![TypeScript](https://img.shields.io/badge/TypeScript-5.3.2-blue)
-![License](https://img.shields.io/badge/license-MIT-green)
+
 
 ## Features
 
