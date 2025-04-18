@@ -88,6 +88,7 @@ npm run lint
 npm run test
 ```
 # Project Structure
+```
 mcpchat/
 ├── src/
 │ ├── config/ # Configuration management
@@ -100,6 +101,7 @@ mcpchat/
 ├── .gitignore # Git ignore rules
 ├── package.json # Project dependencies
 └── tsconfig.json # TypeScript configuration
+```
 
 ## Architecture
 
