@@ -153,7 +153,7 @@ This project is licensed under the BSD-3 License
  ## Acknowledgments
 
 - [Model Context Protocol](https://github.com/model-context-protocol) for the MCP specification
-- [LangChain.js](https://js.langchain.com/) for inspiration
+- [LangChain.js](https://js.langchain.com/) for all the havy lifting
 - All contributors and maintainers
 
 ## Support
