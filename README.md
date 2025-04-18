@@ -13,6 +13,7 @@ A powerful terminal-based chat application that connects to multiple Model Conte
 
 - 🌐 **Multi-Server Support**: Connect to multiple MCP servers simultaneously
 - 🔄 **Dynamic Model Switching**: Switch between different models and servers on the fly
+- Supported models: Gemini, OpenAI, Local ollama
 - 🔍 **Real-time Health Monitoring**: Automatic server health checks and status updates
 - 💾 **Session Management**: Maintain chat history and context across conversations
 - 🎨 **Interactive CLI**: User-friendly terminal interface with color-coded messages
@@ -95,6 +96,7 @@ mcpchat/
 │ ├── mcp/ # MCP server handling
 │ ├── chat/ # Chat session management
 │ ├── utils/ # Utilities and helpers
+| ├── cli/ # CLI interface
 │ └── index.ts # Application entry point
 ├── tests/ # Test files
 ├── .env.example # Example environment variables
